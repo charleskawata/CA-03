@@ -1,10 +1,10 @@
-#Overview
+# Overview
 
 This code pulls data from the following source: "https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true" and performs a Data Quality Analysis (DQA), builds Decision Tree Classifier Models, evaluates Decision Tree Performance, tunes Decision Tree Performance, and visualizes the best Decision Tree using GraphViz.
 
-##Getting Started
+## Getting Started
 
-###Prerequisites
+### Prerequisites
 To run this code, you will need the following:
 
 Python (version 3.7 or higher)
@@ -17,13 +17,13 @@ Python (version 3.7 or higher)
 - seaborn
 - graphviz
 
-###Installation: 
+### Installation: 
 To install the required Python libraries, you can run the following command:
 
-###Copy code
+### Copy code
 pip install pandas numpy sklearn matplotlib seaborn graphviz pydotplus
 
-##Usage
+## Usage
 To use this code, follow these steps:
 
 - Clone this repository to your local machine.
