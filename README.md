@@ -8,15 +8,15 @@ Prerequisites
 To run this code, you will need the following:
 
 Python (version 3.7 or higher)
-Jupyter Notebook
-Required Python Libraries:
-pandas
-numpy
-sklearn
-matplotlib
-seaborn
-graphviz
-pydotplus
+- Jupyter Notebook
+- Required Python Libraries:
+- pandas
+- numpy
+- sklearn
+- matplotlib
+- seaborn
+- graphviz
+
 Installation
 To install the required Python libraries, you can run the following command:
 
